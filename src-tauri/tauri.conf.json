@@ -62,7 +62,7 @@
     },
     "windows": [
       {
-        "title": "Multitool - Loading",
+        "title": "MultiTool - Loading",
         "width": 350,
         "height": 400,
         "decorations": false,
@@ -73,7 +73,7 @@
         "label": "splashscreen"
       },
       {
-        "title": "Multitool",
+        "title": "MultiTool",
         "label": "main",
         "transparent": true,
         "fullscreen": false,
