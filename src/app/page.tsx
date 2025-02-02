@@ -31,7 +31,7 @@ export default function Page() {
         >
             <div className="flex items-center gap-3">
                 <Image src={logo} alt="Logo" width={50} height={50} />
-                <p>Multitool - version {appInfos.version}</p>
+                <p>MultiTool - version {appInfos.version}</p>
             </div>
             <CommitsList />
         </motion.div>
