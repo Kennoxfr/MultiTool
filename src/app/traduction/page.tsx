@@ -423,10 +423,10 @@ export default function Page() {
             ) : (
                 <div className="flex flex-col items-center justify-center w-full h-screen">
                     <h2 className="text-3xl font-bold text-primary mb-2">
-                        Aucune versions du jeu n{"'"}a était trouvée
+                        Aucune version du jeu n{"'"}a été trouvée
                     </h2>
                     <p className="max-w-[500px] text-center leading-7">
-                        Pour régler ce problème, lancez StarCitizen, puis
+                        Pour régler ce problème, lancez Star Citizen, puis
                         rechargez cette page en faisant la manipulation suivante
                         :
                         <span className="bg-gray-500 px-2 py-1 ml-2">
